@@ -1,0 +1,4 @@
+C:\Users\Fabricio\Desktop\Primer obligatorio\Primer obligatorio\bin\Debug\Primer obligatorio.exe
+C:\Users\Fabricio\Desktop\Primer obligatorio\Primer obligatorio\bin\Debug\Primer obligatorio.pdb
+C:\Users\Fabricio\Desktop\Primer obligatorio\Primer obligatorio\obj\x86\Debug\Primer obligatorio.exe
+C:\Users\Fabricio\Desktop\Primer obligatorio\Primer obligatorio\obj\x86\Debug\Primer obligatorio.pdb
